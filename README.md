@@ -1,1 +1,1 @@
-![TopBanner](https://quad.tk/profilereadme/topbanner.html)
+![TopBanner](https://quad.tk/profilereadme/topbanner.svg)
